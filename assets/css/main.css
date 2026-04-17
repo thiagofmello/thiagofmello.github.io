@@ -1559,7 +1559,11 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 		}
-
+		img {
+  			max-width: 100%;
+  			height: auto;
+  			display: block;
+			}
 		.image.featured {
 			display: block;
 			width: 100%;
